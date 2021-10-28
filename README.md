@@ -1,0 +1,2 @@
+# QueritelPractical
+Queritel interview practical
