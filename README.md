@@ -1,7 +1,8 @@
 # QueritelPractical
 Queritel interview practical
 
-#Overview
+# Overview
+
 This project is an interview exercise which involves training a computer vision model on any handwritten dataset which includes arithmetic symbols for future simple evaluations of detected digits.
 
 The dataset was source from https://www.kaggle.com/clarencezhao/handwritten-math-symbol-dataset?select=train which was trained on a convolutional neural network built from scratch and has an accuracy of 0.5 on its validation datase. 
